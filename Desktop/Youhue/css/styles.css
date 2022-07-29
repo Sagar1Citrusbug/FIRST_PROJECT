@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav {
+    height: 129px;
+    display: flex;
+    flex-wrap: nowrap;
+
+
+}
+
+.youhue {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.nav {
+    margin-left: 600px;
+}
+
+.menu {
+    display: flex;
+    border-right: 2px solid #3f3f44;
+}
+
+.menu li {
+    font-family: Roboto;
+    padding: 55px;
+    list-style-type: none;
+    margin: -6px;
+    font-size: 25px;
+    color: #3f3f44;
+
+}
+
+.menu li:hover {
+    color: #652D90;
+}
+
+.firstsection {
+    height: 900px;
+    background-color: #652D90;
+}
+
+.wholediv {
+
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.divfortext {
+    border: 1px solid black;
+    /* display:flex;
+    flex-direction: column; */
+    width: 50%;
+    margin: auto;
+}
+
+.heading1 {
+    color: #ffffff;
+    font-size: 54px;
+    margin: 20px;
+
+
+}
+
+.heading2 {
+    color: #ffffff;
+    font-size: 34px;
+    margin: auto;
+}
+
+
+.divforimage {
+    display: flex;
+    margin-top: 50px;
+    margin-right: 150px;
+    justify-content: right;
+    width: 300%;
+
+}
+
+.divforimage img {
+    width: 50%;
+    justify-content: center;
+    /* margin-top: 91px; */
+    width: 979px;
+    height: 696px;
+}
+
+.divforalllog {
+    float: right;
+    display: flex;
+}
+
+.buttonforgetstart {
+    padding: 15px;
+    margin-left: 10px;
+    border-radius: 9px;
+    border: 1px solid #652D90;
+}

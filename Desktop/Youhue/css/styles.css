@@ -164,17 +164,17 @@ li a.left:hover:before {
     letter-spacing: 1.39px;
     font-weight: 600;
     color: #fff;
-    margin: 77px 68px 45px 11px;
+    margin: 39px 68px 48px 11px;
     flex-grow: 3;
 }
 
 .article p {
     color: #fff;
-    font-size: 32px;
-    line-height: 40px;
-    letter-spacing: 1.77px;
-    margin: 0px 158px -3px 22px;
-    font-weight:100;
+    font-size: 33px;
+    line-height: 43px;
+    letter-spacing: 2.77px;
+    margin: 0px 158px 80px 22px;
+    font-weight: 100;
     flex-grow: 2;
 
 }

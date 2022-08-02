@@ -116,12 +116,12 @@ li a.left:hover:before {
 }
 .signupbtn{
    
-    padding: 16px;
-    font-size: 25px;
+    padding: 14px;
+    font-size: 29px;
     font-weight: 500;
     color: #652D90;
     border-radius: 63px;
-    width: 39%;
+    width: 34%;
     border: none;
     /* margin-top: 270px; */
    
@@ -183,8 +183,10 @@ li a.left:hover:before {
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
-    
+    width: 90%;  
+    margin-bottom: 6px;  
 }
+
 
 
 
